@@ -6,11 +6,11 @@ Hello, I'm Maxim! 👋
 
   I'm a Junior Frontend Developer with two years of experience building modern, responsive, and cross-browser web applications. My passion lies in writing clean,     semantic code and creating intuitive interfaces that solve real-world problems. 🚀
 
-About Me:
+##About Me:
 
   💻 Experience: 2 years in web development, including commercial projects and personal pet projects.
 
-🛠 Tech Stack:
+##🛠 Tech Stack:
 
   Frontend: HTML5, CSS3, SCSS/SASS, TypeScript, React.js, TailwindCSS
   Backend: Node.js, MongoDB (Atlas)
@@ -19,26 +19,26 @@ About Me:
   🎨 UI/UX Design: Designed two unique web application interfaces.
   📚 Principles: Clean code, semantics, responsiveness, cross-browser compatibility, and performance optimization.
 
-My Experience:
+##My Experience:
 
   Internship at an IT Company: Built two large-scale commercial websites from scratch based on provided designs. 🏢
   Full-Stack Project: Developed a turnkey commercial website for tool sales (Moldcraft), including frontend, backend, and integrations. 🛒
   Pet Projects: Created numerous personal projects to hone my skills and experiment with new technologies. 🔍
 
-My Projects:
+##My Projects:
 
   Moldcraft: A full-stack web application for tool sales. Built a responsive interface with React.js and TailwindCSS, integrated Node.js for server-side logic.       (Demo, Code)
   Project 1: [Brief description, tech stack, demo/repository link]. 🖥
   Project 2: [Brief description, tech stack, demo/repository link]. 📱
 
-How to Run My Portfolio:
+##How to Run My Portfolio:
 
 Clone the repository: git clone https://github.com/username/username.github.io
 Navigate to the folder: cd username.github.io
 Install dependencies: npm install (if using a build tool)
 Run: npm start or open index.html in a browser.
 
-Get in Touch:
+##Get in Touch:
 
   📧 Email: curicatusmaxus@gmail.com
   🐙 GitHub: https://github.com/WebnaMax/
@@ -52,11 +52,11 @@ I'm excited to discuss projects and ideas! 🚀
 
   Я Junior Frontend Developer с двухлетним опытом создания современных, адаптивных и кроссбраузерных веб-приложений. Моя страсть — писать чистый, семантический код   и создавать интуитивно понятные интерфейсы, которые решают реальные задачи. 🚀
   
-Обо мне
+##Обо мне:
 
 💻 Опыт: 2 года в веб-разработке, включая коммерческие проекты и личные pet-проекты.
 
-🛠 Стек технологий:
+##🛠 Стек технологий:
 
   Frontend: HTML5, CSS3, SCSS/SASS, TypeScript, React.js, TailwindCSS
   Backend: Node.js, MongoDB (Atlas)
@@ -65,26 +65,26 @@ I'm excited to discuss projects and ideas! 🚀
   🎨 UI/UX-дизайн: Разработал два уникальных дизайна для веб-приложений.
   📚 Принципы: Чистый код, семантика, адаптивность, кроссбраузерность, оптимизация производительности.
 
-Мой опыт
+##Мой опыт:
 
   Стажировка в IT-компании: Создал два крупных коммерческих сайта, по готовому дизайну. 🏢
   Full-Stack проект: Разработал коммерческий сайт под ключ для продажи инструментов (Moldcraft), включая фронтенд, бэкенд и интеграции. 🛒
   Pet-проекты: Реализовал множество личных проектов для оттачивания навыков и экспериментов с новыми технологиями. 🔍
 
-Мои проекты
+##Мои проекты:
 
   Moldcraft: Full-Stack веб-приложение для продажи инструментов. Реализовал адаптивный интерфейс с React.js и TailwindCSS, интегрировал Node.js для серверной         логики. (Демо, Код)
   Проект 1: [Краткое описание, стек, ссылка на демо/репозиторий]. 🖥
   Проект 2: [Краткое описание, стек, ссылка на демо/репозиторий]. 📱
 
-Как запустить мое портфолио
+##Как запустить мое портфолио:
 
   Склонируйте репозиторий: git clone https://github.com/username/username.github.io
   Перейдите в папку: cd username.github.io
   Установите зависимости: npm install (если используется сборщик)
   Запустите: npm start или откройте index.html в браузере.
 
-Связаться со мной
+##Связаться со мной:
 
  📧 Email: curicatusmaxus@gmail.com
  🐙 GitHub: https://github.com/WebnaMax/
