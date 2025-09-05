@@ -1,6 +1,54 @@
 # My-Portfolio-
 
-Привет, я Максим! 👋###
+##English:
+
+Hello, I'm Maxim! 👋
+
+  I'm a Junior Frontend Developer with two years of experience building modern, responsive, and cross-browser web applications. My passion lies in writing clean,     semantic code and creating intuitive interfaces that solve real-world problems. 🚀
+
+About Me:
+
+  💻 Experience: 2 years in web development, including commercial projects and personal pet projects.
+
+🛠 Tech Stack:
+
+  Frontend: HTML5, CSS3, SCSS/SASS, TypeScript, React.js, TailwindCSS
+  Backend: Node.js, MongoDB (Atlas)
+  Tools: Git, GitHub, Figma
+
+  🎨 UI/UX Design: Designed two unique web application interfaces.
+  📚 Principles: Clean code, semantics, responsiveness, cross-browser compatibility, and performance optimization.
+
+My Experience:
+
+  Internship at an IT Company: Built two large-scale commercial websites from scratch based on provided designs. 🏢
+  Full-Stack Project: Developed a turnkey commercial website for tool sales (Moldcraft), including frontend, backend, and integrations. 🛒
+  Pet Projects: Created numerous personal projects to hone my skills and experiment with new technologies. 🔍
+
+My Projects:
+
+  Moldcraft: A full-stack web application for tool sales. Built a responsive interface with React.js and TailwindCSS, integrated Node.js for server-side logic.       (Demo, Code)
+  Project 1: [Brief description, tech stack, demo/repository link]. 🖥
+  Project 2: [Brief description, tech stack, demo/repository link]. 📱
+
+How to Run My Portfolio:
+
+Clone the repository: git clone https://github.com/username/username.github.io
+Navigate to the folder: cd username.github.io
+Install dependencies: npm install (if using a build tool)
+Run: npm start or open index.html in a browser.
+
+Get in Touch:
+
+  📧 Email: curicatusmaxus@gmail.com
+  🐙 GitHub: https://github.com/WebnaMax/
+  📱 Telegram: @Maxim838
+
+I'm excited to discuss projects and ideas! 🚀
+
+##Русский:
+
+Привет, я Максим! 👋
 
   Я Junior Frontend Developer с двухлетним опытом создания современных, адаптивных и кроссбраузерных веб-приложений. Моя страсть — писать чистый, семантический код   и создавать интуитивно понятные интерфейсы, которые решают реальные задачи. 🚀
   
@@ -8,7 +56,7 @@
 
 💻 Опыт: 2 года в веб-разработке, включая коммерческие проекты и личные pet-проекты.
 
-🛠 Стек технологий:###
+🛠 Стек технологий:
 
   Frontend: HTML5, CSS3, SCSS/SASS, TypeScript, React.js, TailwindCSS
   Backend: Node.js, MongoDB (Atlas)
@@ -38,9 +86,9 @@
 
 Связаться со мной
 
-  📧 Email: your.email@example.com
-  🔗 LinkedIn: [ссылка на профиль]
-  🐙 GitHub: github.com/username
-  📱 Telegram: [@yourusername]
+ 📧 Email: curicatusmaxus@gmail.com
+ 🐙 GitHub: https://github.com/WebnaMax/
+ 📱 Telegram: @Maxim838
 
 Готов обсудить проекты и идеи! 🚀
+
