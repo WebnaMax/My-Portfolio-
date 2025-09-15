@@ -27,8 +27,8 @@ Hello, I'm Maxim! 👋
 
 ##My Projects:
 
-  Moldcraft: A full-stack web application for tool sales. Built a responsive interface with React.js and TailwindCSS, integrated Node.js for server-side logic.       (Demo, Code)
-  Project 1: [Brief description, tech stack, demo/repository link]. 🖥
+  Moldcraft: A full-stack web application for tool sales. Built a responsive interface with React.js and TailwindCSS, integrated Node.js for server-side logic. Link: https://moldcraft.md    
+  Project 1: A web app for online food ordering, allowing users to browse restaurants, view menus, add items to a cart, and place orders. Features include a responsive UI, localStorage-based cart persistence, dynamic rendering, and order total calculation. Built a responsive interface with html, css, js. 🖥 Link: https://webnamax.github.io/Delivery-Food-/index.html
   Project 2: [Brief description, tech stack, demo/repository link]. 📱
 
 ##How to Run My Portfolio:
@@ -68,13 +68,13 @@ I'm excited to discuss projects and ideas! 🚀
 ##Мой опыт:
 
   Стажировка в IT-компании: Создал два крупных коммерческих сайта, по готовому дизайну. 🏢
-  Full-Stack проект: Разработал коммерческий сайт под ключ для продажи инструментов (Moldcraft), включая фронтенд, бэкенд и интеграции. 🛒
+  Full-Stack проект: Разработал коммерческий сайт под ключ для продажи инструментов (Moldcraft), включая фронтенд, бэкенд и интеграции. 🛒 
   Pet-проекты: Реализовал множество личных проектов для оттачивания навыков и экспериментов с новыми технологиями. 🔍
 
 ##Мои проекты:
 
-  Moldcraft: Full-Stack веб-приложение для продажи инструментов. Реализовал адаптивный интерфейс с React.js и TailwindCSS, интегрировал Node.js для серверной         логики. (Демо, Код)
-  Проект 1: [Краткое описание, стек, ссылка на демо/репозиторий]. 🖥
+  Moldcraft: Full-Stack веб-приложение для продажи инструментов. Реализовал адаптивный интерфейс с React.js и TailwindCSS, интегрировал Node.js для серверной логики. Link: https://moldcraft.md 
+  Проект 1: Веб-приложение для онлайн-заказа еды, позволяющее пользователям просматривать рестораны, изучать меню, добавлять блюда в корзину и оформлять заказы. Функции включают адаптивный интерфейс, сохранение     корзины в localStorage, динамическую отрисовку и расчет общей стоимости заказа. Создан адаптивный интерфейс с использованием HTML, CSS, JS. 🖥 Ссылка: https://webnamax.github.io/Delivery-Food-/index.html 
   Проект 2: [Краткое описание, стек, ссылка на демо/репозиторий]. 📱
 
 ##Как запустить мое портфолио:
