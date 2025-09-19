@@ -41,6 +41,11 @@ Hello, I'm Maxim! 👋
   Link:https://webnamax.github.io/YourMeal/index.html
   Repository: https://github.com/WebnaMax/YourMeal
 
+  Project 4: 
+  BoostedUSA is a responsive e-commerce website built with React JS and styled with Sass, offering a seamless shopping experience for electric scooters, skateboards, and more. 🚀🛵
+  Link: https://boosted-usa-pi.vercel.app/
+  Repository: https://github.com/WebnaMax/BoostedUSA.git
+
 ##How to Run My Portfolio:
 
 Clone the repository: git clone https://github.com/WebnaMax
@@ -95,6 +100,11 @@ I'm excited to discuss projects and ideas! 🚀
   Your Meal — это веб-сайт доставки еды, созданный с использованием HTML, CSS и JavaScript. Пользователи могут добавлять бургеры в корзину, сохранять заказ в localStorage и оформлять покупку. 🍔🛒. 
   Ccылка: https://webnamax.github.io/YourMeal/index.html
   Репозиторий: https://github.com/WebnaMax/Delivery-
+
+  Проект 4: 
+  BoostedUSA — это адаптивный сайт электронной коммерции, созданный на React JS с использованием Sass, для удобной покупки электросамокатов, скейтбордов и другого транспорта. 🚀🛵
+  Cсылка: https://boosted-usa-pi.vercel.app/
+  Репрозиторий: https://github.com/WebnaMax/BoostedUSA.git
 
 ##Как запустить мое портфолио:
 
